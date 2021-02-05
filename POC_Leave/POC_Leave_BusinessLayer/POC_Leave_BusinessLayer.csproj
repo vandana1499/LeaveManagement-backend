@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\POC_Leave_DataAccessLayer\POC_Leave_DataAccessLayer.csproj" />
+    <ProjectReference Include="..\POC_Leave_Model\POC_Leave_Model.csproj" />
+  </ItemGroup>
+
+</Project>

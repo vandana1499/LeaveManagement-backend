@@ -1,0 +1,9 @@
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\bin\Debug\netstandard2.0\POC_Leave_Model.deps.json
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\bin\Debug\netstandard2.0\POC_Leave_Model.dll
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\bin\Debug\netstandard2.0\POC_Leave_Model.pdb
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\obj\Debug\netstandard2.0\POC_Leave_Model.csprojAssemblyReference.cache
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\obj\Debug\netstandard2.0\POC_Leave_Model.AssemblyInfoInputs.cache
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\obj\Debug\netstandard2.0\POC_Leave_Model.AssemblyInfo.cs
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\obj\Debug\netstandard2.0\POC_Leave_Model.csproj.CoreCompileInputs.cache
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\obj\Debug\netstandard2.0\POC_Leave_Model.dll
+D:\learning\server-final-POC\POC_Leave\POC_Leave_Model\obj\Debug\netstandard2.0\POC_Leave_Model.pdb
